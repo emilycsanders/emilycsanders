@@ -14,6 +14,6 @@
 🚀 On this GitHub, you'll find a mix of personal projects, classwork, and collaborative consulting work—ranging from predictive models and sentiment analysis to responsive web design.
 
 📫 Let's connect:  
-[LinkedIn](https://www.linkedin.com/in/emilycsanders) • [Portfolio Website](https://emilycsanders.com)
+[LinkedIn](https://www.linkedin.com/in/emiilycsanders) • [Portfolio Website](https://emilycsanders.com)
 
 Thanks for stopping by!
