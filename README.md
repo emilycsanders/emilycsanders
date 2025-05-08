@@ -2,7 +2,7 @@
 
 🎓 I'm a Business Analytics and Information Systems student at the University of Iowa, graduating in December 2025. Passionate about data, technology, and turning complex problems into clear solutions, I enjoy working on projects that blend analytics, strategy, and storytelling. 
 
-💡 I believe everything is done with a purpose—from the way we design user experiences to the data we choose to analyze—and I bring that mindset into every project I take on.
+💡 I believe everything is done with a purpose, from the way we design user experiences to the data we choose to analyze—and I bring that mindset into every project I take on.
 
 💼 Through my education at the University, I've developed skills in:
 
